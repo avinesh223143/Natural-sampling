@@ -5,10 +5,10 @@
 Implement and analyze Natural sampling using Python colab.
  
 ### Tools required ;
-```
+
 Personal computer,
 Google colab software.
-```
+
 
 ### Program;
 ```
@@ -77,6 +77,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/7dc10552-83cd-40e0-9c8f-83904bae9f66)
 
 Results;
-```
+
 Natural sampling signal will be displayed in separate plots. Thus implemented using python colab.
-```
+
