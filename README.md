@@ -1,9 +1,8 @@
 # Ex02 Natural-Sampling
 ## Date:26/03/25
 ### Aim
-```
+
 Implement and analyze Natural sampling using Python colab.
-```
  
 ### Tools required ;
 ```
