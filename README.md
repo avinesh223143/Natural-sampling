@@ -2,16 +2,17 @@
 ## Date:26/03/25
 ### Aim
 ```
-
 Implement and analyze Natural sampling using Python colab.
 ```
  
 ### Tools required ;
 ```
+Personal computer,
+Google colab software.
+```
 
- Personal computer,
- Google colab software.
-Program 
+###Program;
+```
 #Natural sampling
 import numpy as np
 import matplotlib.pyplot as plt
@@ -75,9 +76,6 @@ plt.show()
 
 ### Output Waveform ;
 ![image](https://github.com/user-attachments/assets/7dc10552-83cd-40e0-9c8f-83904bae9f66)
-![image](https://github.com/user-attachments/assets/00748a1c-57ab-4c8c-8fef-ae8c5c2e5d82)
-![image](https://github.com/user-attachments/assets/e27d22e5-99a0-400f-92b5-e6833c023b4b)
-![Uploading image.png…]()
 
 Results;
 ```
