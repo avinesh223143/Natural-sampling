@@ -7,6 +7,7 @@ Implement and analyze Natural sampling using Python colab.
 ### Tools required ;
 
 Personal computer,
+
 Google colab software.
 
 
