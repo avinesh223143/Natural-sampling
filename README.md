@@ -11,7 +11,7 @@ Personal computer,
 Google colab software.
 ```
 
-###Program;
+### Program;
 ```
 #Natural sampling
 import numpy as np
